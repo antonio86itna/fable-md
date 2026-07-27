@@ -73,4 +73,4 @@ how a specific model behaves, open an issue or a PR.
 
 MIT — see [LICENSE](LICENSE).
 
-Maintained by **[ReviewMost4463](https://www.reddit.com/user/ReviewMost4463/)** — [[website / GitHub / X links here]](https://github.com/antonio86itna).
+Maintained by **[ReviewMost4463](https://www.reddit.com/user/ReviewMost4463/)** — [GitHub](https://github.com/antonio86itna).
